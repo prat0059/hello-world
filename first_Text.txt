@@ -1,1 +1,1 @@
-this is my first git text.
+this is my first git text that i added to my project.
